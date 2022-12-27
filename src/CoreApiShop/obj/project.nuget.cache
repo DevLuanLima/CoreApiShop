@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "L9UrHOCVD/D9I8RyeYxAm4MavRRyp5jzTA5AyTiaVSMY/09nf2KYLknV2Na6GNgaHgz4AErxguIXpskqGAXdmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naul_\\Documents\\07 - NET\\06 - Asp.Net JWT authenticator\\jwtnetapi\\CoreApiShop\\CoreApiShop\\CoreApiShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naul_\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\naul_\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\naul_\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\naul_\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\naul_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\naul_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
